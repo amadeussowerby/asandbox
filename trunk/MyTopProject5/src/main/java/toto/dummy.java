@@ -16,5 +16,8 @@ public class dummy
 		
 		Dep2 dp2 = new Dep2();
 		dp2.toto();
+		
+		Dep3 dp3 = new Dep3();
+		dp3.toto();
 	}
 }
