@@ -3,4 +3,5 @@
   <groupId>dependecy2</groupId>
   <artifactId>dep2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>dependecy2</name>
 </project>
