@@ -3,4 +3,5 @@
   <groupId>GroupId.org.dummy</groupId>
   <artifactId>dep3subdep4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>dep3subdep4</name>
 </project>

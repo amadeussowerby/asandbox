@@ -3,4 +3,22 @@
   <groupId>zer</groupId>
   <artifactId>MyTopProject4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>MyTopProject4</name>
+    <dependencies>
+        <dependency>
+            <groupId>dependecy2</groupId>
+            <artifactId>dep2</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>GroupId.org.dummy</groupId>
+            <artifactId>dep3</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>dep</groupId>
+            <artifactId>dependency</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

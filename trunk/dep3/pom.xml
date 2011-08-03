@@ -3,4 +3,12 @@
   <groupId>GroupId.org.dummy</groupId>
   <artifactId>dep3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <name>dep3</name>
+    <dependencies>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>dep3subdep4</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>
